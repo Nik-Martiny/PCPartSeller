@@ -1,0 +1,14 @@
+tr {
+    border-top: 1px solid #000000;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.td-name::after {
+    background-color: rgb(146, 146, 146);
+    color: rgb(25, 27, 42);
+    display: block;
+    width: 266px;
+}
